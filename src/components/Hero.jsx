@@ -12,11 +12,7 @@ export default function Hero() {
           <p className="mt-4 text-gray-600 dark:text-gray-300">
             Quality tools, plumbing, electrical supplies & paints. Competitive prices and local delivery.
             Trusted by builders and DIYers.    
-          </p>
-          <div className="mt-6 flex gap-3">
-            <a href="/products" className="px-4 py-2 rounded bg-accent text-white">Shop Products</a>
-            <a href="/contact" className="px-4 py-2 rounded border">Visit/Contact</a>
-          </div>
+          </p
         </motion.div>
 
         <motion.div initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.6 }}>
