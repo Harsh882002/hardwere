@@ -9,12 +9,6 @@ export default function ProductCard({ product }) {
         <h3 className="font-semibold">{product.name}</h3>
         <p className="text-sm text-gray-500">{product.short}</p>
       </div>
-      <div className="mt-4 flex items-center justify-between">
-        <div>
-          <div className="font-bold">₹{product.price}</div>
-          <div className={`text-xs ${product.inStock ? 'text-green-600' : 'text-red-600'}`}>{product.inStock ? 'In Stock' : 'Out of Stock'}</div>
-        </div>
-       </div>
     </div>
   )
 }
