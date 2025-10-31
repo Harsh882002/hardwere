@@ -63,7 +63,7 @@ export default function Contact() {
           <div className="w-full h-72 rounded-lg overflow-hidden shadow-md">
             <iframe
               title="Google Map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.773696877139!2d77.04369647470409!3d20.6380791010835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd72d26d2e1df1f%3A0x483dce7431deb7f!2sVIJAY%20Hardware!5e0!3m2!1sen!2sin!4v1761913470646!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.773696877139!2d77.04369647470409!3d20.6380791010835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd72d26d2e1df1f%3A0x483dce7431deb7f!2sKunal%20Hardware!5e0!3m2!1sen!2sin!4v1761913470646!5m2!1sen!2sin"
               className="w-full h-full"
               loading="lazy"
               allowFullScreen

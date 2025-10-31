@@ -29,11 +29,11 @@ export default function Navbar() {
         <Link to="/" className="flex items-center gap-3">
           <div className="w-10 h-10 rounded-md bg-gray-800 text-white flex items-center justify-center font-bold">
             {/* Replace the text "IH" with the logo image once you add it */}
-            <img src="/logo/logo.png" alt="VIJAY Hardware Logo" className="w-10 h-10" />
+            <img src="/logo/logo.png" alt="Kunal Hardware Logo" className="w-10 h-10" />
           </div>
           <div>
             <div className="text-lg font-semibold dark:text-white">
-              VIJAY Hardware
+              Kunal Hardware
             </div>
             <div className="text-xs text-gray-500 dark:text-gray-400">
               Tools • Electrical • Plumbing
