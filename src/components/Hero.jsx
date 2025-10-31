@@ -12,7 +12,7 @@ export default function Hero() {
           <p className="mt-4 text-gray-600 dark:text-gray-300">
             Quality tools, plumbing, electrical supplies & paints. Competitive prices and local delivery.
             Trusted by builders and DIYers.    
-          </p
+          </p>
         </motion.div>
 
         <motion.div initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.6 }}>
