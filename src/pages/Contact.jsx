@@ -41,7 +41,7 @@ export default function Contact() {
 
           <div className="flex gap-3 mt-4">
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/919511814420"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2 rounded bg-green-600 text-white hover:bg-green-700 transition"
@@ -49,7 +49,7 @@ export default function Contact() {
               WhatsApp
             </a>
             <a
-              href="tel:+919876543210"
+              href="tel:+919511814420"
               className="px-5 py-2 rounded border border-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 transition"
             >
               Call Now
@@ -63,7 +63,7 @@ export default function Contact() {
           <div className="w-full h-72 rounded-lg overflow-hidden shadow-md">
             <iframe
               title="Google Map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.773696877139!2d77.04369647470409!3d20.6380791010835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd72d26d2e1df1f%3A0x483dce7431deb7f!2sKunal%20Hardware!5e0!3m2!1sen!2sin!4v1761913470646!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.773696877139!2d77.04369647470409!3d20.6380791010835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd72d26d2e1df1f%3A0x483dce7431deb7f!2sVIJAY%20Hardware!5e0!3m2!1sen!2sin!4v1761913470646!5m2!1sen!2sin"
               className="w-full h-full"
               loading="lazy"
               allowFullScreen
