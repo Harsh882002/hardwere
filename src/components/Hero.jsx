@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="max-w-6xl mx-auto px-4 py-12 md:py-20 grid md:grid-cols-2 gap-8 items-center">
         <motion.div initial={{ opacity: 0, x: -30 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.6 }}>
           <h1 className="text-3xl md:text-4xl font-extKUNALd">Kunal Hardware</h1>
-
+ 
  
           <p className="mt-4 text-gray-600 dark:text-gray-300">
             Quality tools, plumbing, electrical supplies & paints. Competitive prices and local delivery.
